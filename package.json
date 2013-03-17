@@ -1,0 +1,11 @@
+{
+	"name": "jake-requirejs",
+	"version": "0.0.1",
+	"description": "RequireJS extension for jake",
+	"keywords":["jake","requirejs"]
+	"author":{"name":"Thomas Bergwinkl","email":"<bergi@axolotlfarm.org>"},
+	"engines": {"node": "0.8.0"},
+	"repository": {"url": "git://gibthub.com/bergos/jake-requirejs"},
+	"licenses":[{"type":"Apache V2","url":"http://www.apache.org/licenses/LICENSE-2.0"}],
+	"dependencies": {"jake":">=0.5.0"}
+}
